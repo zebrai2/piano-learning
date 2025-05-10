@@ -71,4 +71,4 @@
 **📘 Resource**:
 
 * [MusicTheory.net – Grand staff note reading](https://www.musictheory.net/lessons/10)
-* [Pianotv.net – Beginner journaling tips for practice](https://www.pianotv.net/2015/06/how-to-keep-a-practice-journal/)
+* [Practice Journal: A Daily Music Journal to Track Your Progress](https://www.pianotv.net/practice-journal/)
