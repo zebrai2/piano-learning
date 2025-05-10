@@ -44,7 +44,7 @@
 **📘 Resource**:
 
 * [Jesus Loves Me This I Know Easy Piano Tutorial (Right Hand) - Hymn](https://www.youtube.com/watch?v=TcqQ5wKPP0M)
-* [Hanon Exercises – Classic beginner finger drills (PDF download)](https://www.virtualsheetmusic.com/score/Hanon.html)
+* [Hanon Exercises (PDF, alternative source)](https://www.gmajormusictheory.org/Freebies/Freebies.html)
 
 ---
 
