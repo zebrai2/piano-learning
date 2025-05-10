@@ -1,4 +1,4 @@
- # 🎼 Composition Roadmap
+# 🎼 Composition Roadmap
 
 This document outlines the structure and expectations for learning composition as a natural extension of musical fluency and creativity. Composition is not isolated from technique or repertoire — it grows from them. This roadmap introduces compositional thinking gradually, in parallel with playing and reading fluency.
 
@@ -16,6 +16,7 @@ This document outlines the structure and expectations for learning composition a
 * Create short motives (2–4 measures)
 * Rephrase or extend existing melodies (e.g. from repertoire)
 * Write short 8-bar pieces using I–IV–V chords in C or G major
+* Build triads for I, IV, and V chords by stacking thirds from the scale
 * Notate music by hand or with beginner-friendly software
 
 ### Skills Developed:
@@ -23,6 +24,7 @@ This document outlines the structure and expectations for learning composition a
 * Phrase structure (antecedent + consequent)
 * Rhythmic balance and variety
 * Chord function awareness (tonic, subdominant, dominant)
+* Chord construction from scale degrees
 * Reading and writing in treble or grand staff
 
 ---
@@ -104,8 +106,6 @@ Compose a binary form (A–B) piece in either G or D major using articulation an
 * Key signature fluency (G, D major)
 * Dynamic contrast and articulation in notation
 
----
-
 ### 6. **Harmony Builder**
 
 Compose an 8-bar melody using your own original chord progression. Begin with 3–4 chords and explore different orders or harmonic rhythms.
@@ -128,7 +128,7 @@ Compose a 24-bar piece in ternary form (ABA) using dynamics and articulation to 
 
 ### 8. **Set a Lyric to Music**
 
-Choose a simple poem, hymn verse, or original lyric. Compose a melody that fits the rhythm and natural emphasis of the text.
+Choose a simple poem, hymn verse, or original lyric. Compose a melody that fits the rhythm and natural emphasis of the text. This project introduces lyric writing gently in Level 1. If interest develops, it will be expanded in Level 2.
 
 **Skills Reinforced:**
 
