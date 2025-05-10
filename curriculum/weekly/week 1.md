@@ -57,7 +57,7 @@
 
 **📘 Resource**:
 
-* [YouTube – How to record yourself on piano (basic)](https://youtu.be/OjJcBVH00jY)
+* [How To Video Record Yourself Playing The Piano](https://www.youtube.com/watch?v=_-ItNzbu9rg)
 * \[Flat.io or Noteflight.com – Free notation tools]
 
 ---
