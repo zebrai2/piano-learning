@@ -78,12 +78,13 @@ Write an 8-bar piece using a simple chord progression (e.g. I–IV–V–I in C 
 
 ### 3. **Melody over Harmony**
 
-Create a 16-bar melody that fits over a provided chord progression (or one from your repertoire). Focus on contour and pacing.
+Create a 16-bar melody that fits over a provided chord progression (or one from your repertoire). Focus on contour and pacing. Include contrasting textures between the melody and harmony (e.g., broken chords, held notes, rhythmic offset) to explore balance between lines.
 
 **Skills Reinforced:**
 
 * Harmonic alignment with melody
 * Melodic pacing and phrasing
+* Contrasting texture between melody and accompaniment
 * Use of chord tones and passing tones
 
 ### 4. **Variation on a Hymn**
