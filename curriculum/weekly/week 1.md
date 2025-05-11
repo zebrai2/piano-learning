@@ -41,9 +41,18 @@
 
 ### 🔢 Day 2 – Motif Maker Launch (35–40 min total)
 
+**Rhythm Concept Review** (3–5 min)
+
+* Introduction to quarter rests
+* Listen to 4-beat patterns with one silent beat (e.g., ta ta \[rest] ta)
+* Optional: review [quarter rest basics](https://www.musictheory.net/lessons/11)
+
 **Rhythm Drill** (3–5 min)
 
-* Clap 1-bar rhythm patterns using quarter and half notes (e.g. ta ta | ta-a). Vary tempo or emphasis. Try tapping them on a single note afterward.
+* Clap 1-bar rhythm patterns using quarter and half notes (e.g. ta ta | ta-a). Include at least one with a rest
+* Try tapping them on a single note afterward
+* Write one pattern down using rhythm notation (quarter, half, and rest)
+* Optional: print a blank staff or use a method book rhythm page for notation practice
 * Learn or review quarter and half notes visually and aurally using [MusicTheory.net Rhythm Basics](https://www.musictheory.net/lessons/11)
 * Write one pattern down using rhythm notation (quarter and half notes)
 * Optional: print a blank staff or use a method book rhythm page for notation practice
