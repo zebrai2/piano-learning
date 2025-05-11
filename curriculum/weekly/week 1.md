@@ -1,4 +1,4 @@
-# 🎹 Week 1 Practice Plan – Establishing Foundations
+[# 🎹 Week 1 Practice Plan – Establishing Foundations
 
 **Weekly Goals:**
 
@@ -29,6 +29,8 @@
 
 **Reading Focus** (10–12 min)
 
+* Briefly introduce the **treble clef**: what it is and where middle C sits
+* Watch [What Is the Treble Clef? – MusicTheoryForGuitar](https://www.youtube.com/watch?v=JAlIu6jxV4A) (2–3 min)
 * Begin [MusicTheory.net note drill – Treble clef C-G](https://www.musictheory.net/exercises/note)
 * Aim for slow, accurate naming, no guessing
 
@@ -41,11 +43,12 @@
 
 ### 🔢 Day 2 – Motif Maker Launch (35–40 min total)
 
-**Rhythm Concept Review** (3–5 min)
+**Rhythm Concept Review** (8–10 min)
 
-* Introduction to quarter rests
-* Listen to 4-beat patterns with one silent beat (e.g., ta ta \[rest] ta)
-* Optional: review [quarter rest basics](https://www.musictheory.net/lessons/11)
+* **Time Signatures**: Learn 4/4 and 3/4 using [What Is a Time Signature? – MusicTheoryForGuitar](https://www.youtube.com/watch?v=y_leLMn-lBA)
+* **Quarter Notes & Rests**: Watch [Quarter Note & Rest Introduction – Silly School Songs](https://www.youtube.com/watch?v=qyIXZJ25O7U)
+* **Half Notes & Half Rests**: Watch [Half Note and Half Rest Lesson – Silly School Songs](https://www.youtube.com/watch?v=52P5CYDspfk)
+* Try counting, clapping, and resting aloud with each example
 
 **Rhythm Drill** (3–5 min)
 
@@ -88,6 +91,12 @@
 
 ### 🔢 Day 3 – Melody Reading & Development (40–45 min total)
 
+**Ear Training** (3–5 min)
+
+* Listen to two notes: is the second note higher or lower?
+* Try [ToneSavvy – Direction & Interval Drill](https://tonesavvy.com/music-practice-exercise/154/ear-training/melodic-direction/)
+* Clap for higher, tap your lap for lower
+
 **Listening Task** (3–5 min)
 
 * Listen to the RH-only audio for *Jesus Loves Me* from *16 Easy Hymns for Solo Piano, Vol. 1*
@@ -121,7 +130,13 @@
 
 ### 🔢 Day 4 – Connecting Ideas (35–40 min total)
 
-**Rhythm Concept Review**
+**Rhythm Concept Review** (3–5 min)
+
+* Introduction to eighth notes and rests
+
+* Watch [Eighth Notes and Rests – Silly School Songs](https://www.youtube.com/watch?v=yMRbEwExMmY)
+
+* Clap and count: “1 & 2 & 3 4” patterns
 
 * Review quarter, half, and eighth notes using [MusicTheory.net Rhythm Basics](https://www.musictheory.net/lessons/11)
 
@@ -185,3 +200,4 @@
 * [C major 5-finger tutorial](https://www.youtube.com/watch?v=oFX2HnHuXAM) – Technique overview
 
 Let me know when you're ready to build Week 2!
+](https://chatgpt.com/c/682007ee-7db8-8011-a5b9-ecb361a770b1)
