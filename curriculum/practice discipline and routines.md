@@ -46,56 +46,69 @@ This document defines the long-term learning behaviors and supporting habits tha
 * Use variation (tempo, dynamics, articulation) to stay engaged
 * Isolate common failure points and loop them with focus
 
+### 7. **Sight-Reading Development**
+
+* Practice reading new, simple material regularly — not just rehearsed pieces
+* Use short excerpts (4–8 bars) with predictable patterns and basic rhythms
+* Limit repeats — read once or twice, then move on
+* Build fluency with note recognition, directional reading (step/skip), and simple rhythms
+* Prioritize *confidence and flow* over perfection
+
 ---
 
 ## ⏰ Practice Routine Components
 
-Each session (\~30–45 min) should flexibly draw from:
+Each session (∼30–45 min) should flexibly draw from:
 
 * **Warm-up (5–8 min)**: technique drills, scales, or 5-finger patterns
-* **Skill Focus (10–15 min)**: isolated technical or reading work
+* **Skill Focus (10–15 min)**: isolated technical, sight-reading, or rhythmic work
 * **Repertoire (10–20 min)**: learn, reinforce, or polish pieces
 * **Reflection (2–5 min)**: quick mental or written check-in
+
+Note: Not all components need to occur in every session. Sessions should adapt based on skill readiness, current goals, and available material.
 
 ---
 
 ## 📆 Numbered Practice Cycle (5-Day Plan)
 
-Use a rolling 5-day cycle that picks up where you last left off. This ensures momentum and structure without calendar pressure.
+Use a rolling 5-day cycle that picks up where you last left off. This ensures momentum and structure without calendar pressure. **If a task is not yet relevant**, substitute additional time for learning or reinforcement in active areas.
 
 ### Day 1: **Foundation Focus**
 
-* Warm-up + technique
-* Core skill work (e.g., rhythm, note reading)
-* Play through or review a previously learned repertoire piece
+* Warm-up + technique focus
+* Core skill work (e.g., rhythm, note naming, or sight-reading drill)
+* If applicable, play through or review a previously learned repertoire piece (e.g., rhythm, note naming, or sight-reading drill)
 
 ### Day 2: **Composition Lab**
 
 * Warm-up with motif or rhythmic exploration
-* Work on a current composition project (new idea or refine existing)
-* Short hands-on sketching or melody draft
+* If applicable, refine a current composition project
+* If not yet composing, spend extra time on motif building or melodic idea generation
 
 ### Day 3: **Repertoire Builder**
 
+* Warm-up + brief technical drill
 * Learn or refine a current repertoire piece
 * Focus on 1–2 challenging measures with looping
-* Reinforce one musical concept (e.g., phrasing, dynamics)
+* If applicable, reinforce a musical concept (e.g., phrasing, dynamics)
 
 ### Day 4: **Application & Review**
 
+* Warm-up + brief coordination or articulation pattern
 * Light run-through of a piece (repertoire or composition)
 * Reflect on what's feeling stronger vs. weaker
 * Optional: record a small section if ready and review
+* If no full piece is playable yet, focus on linking smaller sections
 
 ### Day 5: **Integration Day**
 
 * One full warm-up routine
-* Play through one composition + one repertoire piece
+* If applicable, play through one composition + one repertoire piece
 * Light written or verbal reflection: “What did I solidify this cycle?”
 
 ---
 
-## 🔁 Skill Transfer and Retention
+## ⟳ Skill Transfer and Retention
 
 * Skill drills build reliability, but repertoire proves fluency
 * When a piece is mastered with a target skill, that skill is considered "locked in"
@@ -110,8 +123,8 @@ These disciplines provide the behavioral backbone of the curriculum, supporting 
 
 ## ⏳ Estimated Timeline for Level 1 Completion
 
-* **Minimum (focused approach)**: \~16 weeks (4 months)
-* **Typical (balanced pace)**: \~20–24 weeks (5–6 months)
-* **Deep learning (with review cycles)**: \~28–30 weeks (7 months)
+* **Minimum (focused approach)**: ∼16 weeks (4 months)
+* **Typical (balanced pace)**: ∼20–24 weeks (5–6 months)
+* **Deep learning (with review cycles)**: ∼28–30 weeks (7 months)
 
 This estimate reflects steady, 5-day/week practice using the numbered routine, with integrated progress across both the repertoire and composition roadmaps.
